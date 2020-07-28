@@ -1,6 +1,6 @@
 # CovidDetectionFromChest-XRay
 
-A CNN-based architecture to classify XRay images into COVID-19 positive or negative. Training accuracy- 98%. Test accuracy- 96%.
+A CNN-based architecture to classify XRay images into COVID-19 positive or negative. Training accuracy- 92%. Test accuracy- 96%.
 #### Dataset:
 COVID positive images: https://github.com/ieee8023/covid-chestxray-dataset
 
